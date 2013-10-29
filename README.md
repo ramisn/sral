@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Saral
 
 TODO: Write a gem description
@@ -27,3 +28,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+sral
+====
+
+Ruby framework
+>>>>>>> 30e5e2cb7ff3695758ee4a37d2afb21f34c96b7c
