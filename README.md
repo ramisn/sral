@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Saral
 
-TODO: Write a gem description
+Ruby framework
 
 ## Installation
 
